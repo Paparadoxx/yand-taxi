@@ -24,7 +24,7 @@ a {
   display: none;
 }
 .gmnoprint div {
-  background: none !important;
+  background: none;
 }
 .hide-scroll-bar::-webkit-scrollbar {
   display: none;
